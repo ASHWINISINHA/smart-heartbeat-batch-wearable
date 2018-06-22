@@ -35,7 +35,7 @@ void loop() {
   oled.print(senval);
   oled.setCursor(0, 6);
   oled.setFont(FONT8X16);
-  oled.print("sinha@gmail.com");
+  oled.print("yourtext@gmail.com");//your ttext here
   delay(2000);
    
 }
